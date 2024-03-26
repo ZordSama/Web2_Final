@@ -1,0 +1,63 @@
+{
+  "Chủ đề": "Gear Máy Tính",
+  "Tiêu đề Website": "Enigma Workshop",
+  "Tên đề tài đăng kí": "Xây dựng Website kinh doanh Gear máy tính 'Enigma Workshop'",
+  "Công nghệ sử dụng": {
+    "Backend": "ASP .NET Core",
+    "Frontend": "Tailwind CSS",
+    "Database": "SQL Server",
+    "Khác": "Git, Jquery"
+  },
+  "Ngôn ngữ sử dụng": "C#, HTML, CSS, JavaScript, SQL",
+  "Thư viện sử dụng": {
+    "Backend": "Entity Framework Core",
+    "Frontend": "Tailwind CSS"
+  },
+  "Site Map": {
+    "Admin side": "User management, Product management, Report management",
+    "Employee side": "Product management, Order management, Report management",
+    "Customer side": "Product listing, Product detail, Shopping cart, Checkout, Payment, Order confirmation, Contact us",
+    "Detail (CS)": [
+      "Home",
+      "Profile",
+      "Search",
+      "List Product",
+      "Product Detail",
+      "Cart",
+      "Order Detail",
+      "Checkout",
+      "Order Confirmation",
+      "Payment",
+      "Contact/About Us"
+    ],
+    "Detail (AD)" : {
+        "User Management": [
+            "New/List/Update/Del User"
+        ],
+        "Employee Management": [
+            "New/List/Update/Del Employee",
+            "New/List/Update/Del Role"
+        ],
+        "Product Management": [
+            "New/List/Update/Del Product",
+            "New/List/Update/Del Category",
+            "New/List/Update/Del SubCategory"
+        ],
+        "Order Management" : [
+            "List/Update/Del Order"
+        ],
+        "Report Management":[
+            "Sales Report",
+            "Stock Report"
+        ]
+    },
+    
+    "Detail (EM)": [
+        "Sale",
+        "Import",
+        "Customer Services",
+        "Report"
+    ]
+    
+  }
+}
