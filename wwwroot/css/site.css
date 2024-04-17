@@ -1,0 +1,7 @@
+.container{
+    overflow: hidden;
+}
+.image{
+    object-position: center;
+    object-fit: cover;
+}
